@@ -1,4 +1,4 @@
-The Project Gutenberg eBook of Bleekman's Planet, by Ivar Jorgensen
+﻿The Project Gutenberg eBook of Bleekman's Planet, by Ivar Jorgensen
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -27,7 +27,7 @@ Produced by: Greg Weeks, Mary Meehan and the Online Distributed
 
               Thornwald had done his tour of duty for the
            Solar Service; now it was time for him to retire
-          But a life of relaxation would not be simple on--
+          But a life off relaxation would not be simple on--
 
                            Bleekman's Planet
 
